@@ -1,3 +1,3 @@
-n1 = input ('Primeiro numero: ')
-n2 = input ('Segundo numero: ')
+n1 = input('Primeiro numero: ')
+n2 = input('Segundo numero: ')
 print(n1 + n2)
