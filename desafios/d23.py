@@ -1,7 +1,0 @@
-nome = input('Qual seu nome? ')
-print('seu nome com todas as letras maiuscula E: {}'.format(nome.upper()))
-print('seu nome com todas as letra minuscula E: {}'.format(nome.lower()))
-d = nome.split()
-junto = ''.join(d)
-print('seu nome tem um total de {} letras'.format(len(junto)))
-print('O primeiro nome tem {} letras'.format(len(d[0])))
